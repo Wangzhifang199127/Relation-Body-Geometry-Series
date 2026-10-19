@@ -15,7 +15,7 @@ We propose the TSDP framework, explicitly mapping Transformer mechanisms to a ge
 ![TSDP Framework](figures/T_series/fig_T5_tsdp_framework.png)
 
 *Figure 2: Causal intervention results (Cutting QK causes collapse).*
-![Causal Intervention](figures/experiments/exp4_causal_effect_charts.png)
+![Causal Intervention](figures/Experiments/exp4_causal_effect_charts.png)
 
 ## 📂 Directory Structure
 *   `/code`: Python scripts for data collection, causal interventions, and plotting.
