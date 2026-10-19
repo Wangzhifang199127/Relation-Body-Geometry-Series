@@ -1,0 +1,3 @@
+intervention,top1_token,top1_prob,kl_divergence
+Normal,'s,0.2857,0.0
+Cut QK (it -> sun),is,0.0933,1.1431
